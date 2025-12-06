@@ -1,4 +1,4 @@
-# Abnormal File Vault
+# File Vault
 
 A Django-based distributed object storage system with advanced features including file chunking, deduplication, user quotas, and rate limiting.
 
