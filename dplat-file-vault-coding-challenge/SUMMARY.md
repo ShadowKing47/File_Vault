@@ -1,4 +1,4 @@
-# Abnormal File Vault - Project Summary
+# File Vault - Project Summary
 
 ## Overview
 
@@ -1278,3 +1278,4 @@ The system is suitable for:
 **Generated**: 2025-12-05
 **Version**: 1.0
 **Author**: AI Assistant (following copilot-instructions.md guidelines)
+
