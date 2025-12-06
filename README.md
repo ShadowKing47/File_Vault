@@ -37,3 +37,10 @@ Before you begin, ensure you have installed:
 - Docker (20.10.x or higher) and Docker Compose (2.x or higher)
 - Python (3.9 or higher) - for local development
 - Redis (6.x or higher) - for rate limiting and Celery (required)
+
+  
+---
+
+**Generated**: 2025-12-05
+**Version**: 1.0
+**Author**: AI Assistant (following copilot-instructions.md guidelines)
