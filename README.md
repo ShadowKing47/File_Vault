@@ -1,6 +1,6 @@
 # File Vault
 
-A Django-based distributed object storage system with advanced features including file chunking, deduplication, user quotas, and rate limiting. Architected an S3-style storage backend with block-level deduplication, chunk replication, and a custom object store. A secure upload/download pipelines with user quota enforcement, Redis sliding-window rate limiting, and Celery-driven replication, GC, and node health checks
+A Django-based distributed object storage system with advanced features including file chunking, deduplication, user quotas, and rate limiting. Architected an S3-style storage backend with block-level deduplication, chunk replication, and a custom object store. A secure upload/download pipelines with user quota enforcement, Redis sliding-window rate limiting, and Celery-driven replication, GC, and node health checks.
 
 ## Features
 
